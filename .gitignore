@@ -7,3 +7,7 @@
 credentials/private/
 credentials/downloads/
 .env
+
+
+#Ignore vscode AI rules
+.github\instructions\codacy.instructions.md

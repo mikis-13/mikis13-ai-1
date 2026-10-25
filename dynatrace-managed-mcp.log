@@ -1,0 +1,20 @@
+{"level":"info","message":"Starting Dynatrace Managed MCP","timestamp":"2026-10-25T21:41:57.119Z"}
+{"level":"info","message":"Initializing Dynatrace Managed MCP Server v1.0.1...","timestamp":"2026-10-25T21:41:57.125Z"}
+{"level":"info","message":"Loading configuration from DT_ENVIRONMENT_CONFIGS","timestamp":"2026-10-25T21:41:57.129Z"}
+{"level":"error","message":"Fatal error in main(): JSON syntax error in environment file","timestamp":"2026-10-25T21:41:57.130Z"}
+{"level":"info","message":"Connecting Dynatrace Telemetry via https://bf96767wvv.bf.dynatrace.com/mbeacon. You can disable this by setting DT_MCP_DISABLE_TELEMETRY=true.","timestamp":"2026-10-25T21:41:57.146Z"}
+{"level":"info","message":"Starting Dynatrace Managed MCP","timestamp":"2026-10-25T22:01:45.190Z"}
+{"level":"info","message":"Initializing Dynatrace Managed MCP Server v1.0.1...","timestamp":"2026-10-25T22:01:45.193Z"}
+{"level":"info","message":"Loading configuration from DT_ENVIRONMENT_CONFIGS","timestamp":"2026-10-25T22:01:45.196Z"}
+{"level":"error","message":"Fatal error in main(): JSON syntax error in environment file","timestamp":"2026-10-25T22:01:45.198Z"}
+{"level":"info","message":"Connecting Dynatrace Telemetry via https://bf96767wvv.bf.dynatrace.com/mbeacon. You can disable this by setting DT_MCP_DISABLE_TELEMETRY=true.","timestamp":"2026-10-25T22:01:45.207Z"}
+{"level":"info","message":"Starting Dynatrace Managed MCP","timestamp":"2026-10-25T22:06:39.809Z"}
+{"level":"info","message":"Initializing Dynatrace Managed MCP Server v1.0.1...","timestamp":"2026-10-25T22:06:39.811Z"}
+{"level":"info","message":"Loading configuration from DT_ENVIRONMENT_CONFIGS","timestamp":"2026-10-25T22:06:39.812Z"}
+{"level":"error","message":"Fatal error in main(): JSON syntax error in environment file","timestamp":"2026-10-25T22:06:39.812Z"}
+{"level":"info","message":"Connecting Dynatrace Telemetry via https://bf96767wvv.bf.dynatrace.com/mbeacon. You can disable this by setting DT_MCP_DISABLE_TELEMETRY=true.","timestamp":"2026-10-25T22:06:39.819Z"}
+{"level":"info","message":"Starting Dynatrace Managed MCP","timestamp":"2026-10-25T22:15:24.919Z"}
+{"level":"info","message":"Initializing Dynatrace Managed MCP Server v1.0.1...","timestamp":"2026-10-25T22:15:24.921Z"}
+{"level":"info","message":"Loading configuration from DT_ENVIRONMENT_CONFIGS","timestamp":"2026-10-25T22:15:24.923Z"}
+{"level":"error","message":"Fatal error in main(): JSON syntax error in environment file","timestamp":"2026-10-25T22:15:24.924Z"}
+{"level":"info","message":"Connecting Dynatrace Telemetry via https://bf96767wvv.bf.dynatrace.com/mbeacon. You can disable this by setting DT_MCP_DISABLE_TELEMETRY=true.","timestamp":"2026-10-25T22:15:24.931Z"}
